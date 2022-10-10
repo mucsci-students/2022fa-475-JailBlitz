@@ -38,7 +38,7 @@ This is our first game ever created, hope you enjoy! The game is a top down 2d r
 ## Developers
 1. Yah'hymbey Baruti Ali-Bey
 2. Gabriel Zimmermann
-3. Austin A
+3. Austin An
 
 ### Assets
 https://itch.io/s/57562/tech-dungeon-roguelite-asset-pack
