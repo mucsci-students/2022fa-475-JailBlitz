@@ -534,7 +534,7 @@
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
-		bUXfpzPkFAQ/NuZFdUvt9TR80x0=
+		vOvKqLPIOhV7Lki2HZlkSmP9sXY=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<data>
@@ -611,10 +611,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			0BzUevHp6EcXa25okIqEujtRc7M=
+			YpmUYZn1OyOlL04/DiT1SQPjRG8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d01cd47af1e9e847176b6e68908a84ba3b5173b3"</string>
+			<string>cdhash H"6299946199f53b23a52f4e3f0e24f54903e3446f" or cdhash H"ea54982563f10c8d7313edcec253f105365bf3ab"</string>
 		</dict>
 		<key>Frameworks/libMonoPosixHelper.dylib</key>
 		<dict>
@@ -623,7 +623,7 @@
 			Q+AqZVoUmXhMEQkSXSDsrc1nN/w=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"43e02a655a1499784c1109125d20ecadcd6737fc"</string>
+			<string>cdhash H"43e02a655a1499784c1109125d20ecadcd6737fc" or cdhash H"ff4164c921a524a638ac4768658030c6c4d08990"</string>
 		</dict>
 		<key>Frameworks/libmono-native.dylib</key>
 		<dict>
@@ -632,7 +632,7 @@
 			Llxu7ox37rl8dS1gkxxU8uT5+5c=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"2e5c6eee8c77eeb97c752d60931c54f2e4f9fb97"</string>
+			<string>cdhash H"2e5c6eee8c77eeb97c752d60931c54f2e4f9fb97" or cdhash H"2bbad7ee1d11a0b21a50ec947ea6fc43789d673e"</string>
 		</dict>
 		<key>Frameworks/libmonobdwgc-2.0.dylib</key>
 		<dict>
@@ -641,7 +641,7 @@
 			fzFiVQ+adkocEV5mAuKV/UX2Kis=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"7f3162550f9a764a1c115e6602e295fd45f62a2b"</string>
+			<string>cdhash H"7f3162550f9a764a1c115e6602e295fd45f62a2b" or cdhash H"ed679cc164396bbc8728994b2a7440e93521d0fe"</string>
 		</dict>
 		<key>MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser</key>
 		<dict>
@@ -773,10 +773,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			5x7Z2OulPlR41isQvqF2/lNSeOo=
+			r1RtbvsiJDnw8nEG+gZ2kqNV/Xs=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"e71ed9d8eba53e5478d62b10bea176fe535278ea"</string>
+			<string>cdhash H"af546d6efb222439f0f27106fa067692a355fd7b" or cdhash H"87d66178172091299a5e7c9f993ed62aaed2c37b"</string>
 		</dict>
 		<key>Resources/Data/Managed/Assembly-CSharp.dll</key>
 		<dict>
@@ -1706,7 +1706,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yh9j/joo25qI6oWhV8n5xrSIaEyQWbBCd5ynA1BILkM=
+			Xz53+r1DVYlm862osHFDMiTheb424So5BIDBRU3has8=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets</key>
