@@ -22,8 +22,9 @@ You may have to turn up the sound a bit in the options, it might be a bit low at
 ## How to play
 1. WASD - Move
 2. Mouse - Aim
-3. M1 (Left click) - Shoot
-4. Survive as long as you can.
+3. Escape - Pauses game
+4. M1 (Left click) - Shoot
+5. Survive as long as you can.
 
 ## Developers
 1. Yah'hymbey Baruti Ali-Bey
