@@ -1,5 +1,6 @@
 # 2022fa-475-JailBlitz
 This is our first game ever created, hope you enjoy! The game is a top down 2d roguelike.
+You may have to turn up the sound a bit in the options, it might be a bit low at the start.
 
 
 ## How to install 
