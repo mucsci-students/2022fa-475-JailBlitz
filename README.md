@@ -37,9 +37,9 @@ This is our first game ever created, hope you enjoy! The game is a top down 2d r
 5. Survive as long as you can.
 
 ## Developers
-1. Yah'hymbey Baruti Ali-Bey
-2. Gabriel Zimmermann
-3. Austin An
+- Yah'hymbey Baruti Ali-Bey
+- Gabriel Zimmermann
+- Austin An
 
 ### Assets
 https://itch.io/s/57562/tech-dungeon-roguelite-asset-pack
