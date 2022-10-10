@@ -4,7 +4,7 @@ This is our first game ever created, hope you enjoy! The game is a top down 2d r
 
 ## Important things to know!
 - You may have to turn up the sound a bit in the options, it might be a bit low at the start. (there is music, gun sound, and movement sound)
-To clarify about the card system: 
+- Clarification about the card system: 
 - The health card increases your MAX hp, each mob has a chance to drop a health orb pick them up to heal!
 - The damage card increase your damage by 1.
 - The crit card just increases your critical hit chance, which doubles your current damage for the hit.
